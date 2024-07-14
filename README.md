@@ -1,4 +1,4 @@
-# Project: Technical Evaluation of GPT-4 and GPT-4-Turbo Reflective Listening Response Generation with the Counsel Chat Datase
+# Project: Technical Evaluation of GPT-4 and GPT-4-Turbo Reflective Listening Response Generation with the Counsel Chat Dataset
 
 This repository contains scripts and data for generating and evaluating chatbot responses using GPT-4 and GPT-4-Turbo models.
 
