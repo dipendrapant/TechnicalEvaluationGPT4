@@ -1,0 +1,12 @@
+pandas
+openai
+sacrebleu
+rouge-score
+matplotlib
+textblob
+nltk
+torch==1.8.0+cpu
+torchvision==0.9.0+cpu
+torchaudio==0.8.0
+transformers
+datasets
