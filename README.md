@@ -17,10 +17,6 @@ This repository contains scripts and data for generating and evaluating chatbot 
 
 - `GPT_4_model_development.ipynb`: Jupyter notebook containing the main script for generating and evaluating responses using GPT-4.
 
-- `Session_#_PANT.pptx`: PowerPoint presentation related to the project.
-
-- `psy_patient.png`: Image file related to the project.
-
 - `requirements.txt`: List of required Python packages.
 
 - `v1_data_preparation.ipynb`: Jupyter notebook for data preprocessing scripts.
